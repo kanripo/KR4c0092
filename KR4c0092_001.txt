@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB04n0425-001玉川子詩集-卷第一.
 <pb:KR4c0092_SBCK_001-1a>¶
+# SB1_0773-008.png
 玉川子集&KR0195;第一¶
 　古今詩¶
 　　月蝕詩¶
@@ -293,6 +294,7 @@
 #+PROPERTY: JUAN 1
 #+PROPERTY: FILE SB04n0426-001玉川子詩集外集-一卷.
 <pb:KR4c0092_SBCK_001-1a>¶
+# SB1_0773-052.png
 玉川子詩外集¶
 　古今骵¶
 　　走茟追王内丘¶
